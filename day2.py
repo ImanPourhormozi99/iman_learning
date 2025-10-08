@@ -1,11 +1,11 @@
 name = "IMAN"
-lestname = "pourhormozi"
-age = "19"
+lastname = "pourhormozi"
+age = 19
 Vern = 92.800
 height = 183
 
 print(name)
-print(lestname)
+print(lastname)
 print(age)
 print(Vern)
 print(height)
